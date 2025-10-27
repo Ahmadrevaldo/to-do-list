@@ -1,5 +1,5 @@
 "use client";
-import { Todo } from "@/types/todo";
+import { Todo } from "@/app/types/todo";
 
 export default function TodoItem({
   todo,
